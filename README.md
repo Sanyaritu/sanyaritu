@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Power BI<br>👯 I’m looking to collaborate on Data analysis projects<br>🌱 I’m currently learning Data Science and Analysis<br>💬 Ask me about Python, SQL and Excel<br>
+🔭 I’m currently working on data analysis projects using Python, SQL, Excel, and real-world datasets.<br>👯 I’m looking to collaborate on Data analysis and Data Cleaning projects<br>🌱 I’m currently learning Power BI, advanced data analysis, and data visualization techniques.<br>💬 Ask me about Python, SQL and Excel<br>
 
 
 ## 🌐 Socials:
